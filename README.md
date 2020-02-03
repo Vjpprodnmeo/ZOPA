@@ -1,5 +1,4 @@
 # Thuan
-<!doctype html>
 <html>
 <head>
   h1 {
